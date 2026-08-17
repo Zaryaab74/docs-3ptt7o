@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-zvvi65.bokupaybymobile.com/sitemap.xml
